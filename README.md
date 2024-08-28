@@ -1,4 +1,4 @@
-# Predicción del Tiempo de Mantenimiento en una Planta de Celulosa Kraft
+# Predicción del Tiempo de Mantenimiento en una Fábrica de Celulosa Kraft
 
 ## Descripción
 Este proyecto aplica técnicas de machine learning para predecir el tiempo real de mantenimiento de equipos críticos en una planta de celulosa Kraft. El objetivo es optimizar las operaciones de mantenimiento, reduciendo los tiempos de inactividad y mejorando la eficiencia operativa.
