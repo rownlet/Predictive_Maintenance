@@ -11,7 +11,7 @@ Este proyecto aplica técnicas de machine learning para predecir el tiempo real 
 - **README.md**: Documento descriptivo del proyecto.
 
 ## Tecnologías Utilizadas
-- **Python 3.x**
+- **Python 3.8
 - **Pandas**: Manipulación y análisis de datos.
 - **Scikit-learn**: Desarrollo de modelos predictivos.
 - **Plotly**: Visualización interactiva de datos.
